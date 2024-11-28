@@ -1,0 +1,19 @@
+#btn {
+    width: 100%;
+}
+
+#btn:hover{
+    border-radius: 30px;
+    color: black;
+    transition: 1s;
+}
+
+#btn:active{
+    background-color: red;
+    color: black;
+    border-radius: 50px;
+}
+
+#img {
+    width: 410px; height: 400px; padding: 40px; border-radius: 30px;
+}
